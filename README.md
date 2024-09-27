@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on developing and evaluating machine learning models for an Intrusion Detection System (IDS) using the KDD Cup 1999 dataset. The primary objective is to accurately classify network traffic as either normal or an attack.
+This project focuses on developing and evaluating machine learning models for an Intrusion Detection System (IDS) using the KDD Cup 1999 dataset. The primary objective is to accurately classify network traffic as either normal or an attack. In ensamble learning (Random_forest & Gradient boosting) using I got 99.86% high accuracy.
 
 ## Dataset
 
