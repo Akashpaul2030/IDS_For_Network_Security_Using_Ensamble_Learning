@@ -6,7 +6,7 @@ This project focuses on developing and evaluating machine learning models for an
 
 ## Dataset
 
-- **Source**: [KDD Cup 1999 dataset](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+- **Source**: [KDD Cup 1999 dataset](https://kdd.org/kdd2023/call-for-kdd-cup-proposals/index.html)
 - **Features**: 41 features including duration, protocol type, service, flag, src_bytes, dst_bytes, etc.
 - **Target Variable**: Binary classification (normal vs. attack)
 
